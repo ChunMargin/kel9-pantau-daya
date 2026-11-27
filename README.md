@@ -1,5 +1,8 @@
 # Pantau Daya
 
+Kelompok 9 - Telemetri dan Jaringan Komunikasi  
+Anggota Kelompok : Noe, Nasikul Amin, Rangga
+
 Dashboard monitoring konsumsi energi listrik dengan React, TypeScript, dan Vite. Data pengukuran yang ditampilkan meliputi tegangan, arus, daya aktif, energi (kWh), dan faktor daya, disertai grafik 24 jam, rekap 7 hari/30 hari, serta jam konsumsi tertinggi.
 
 ## Menjalankan di lokal
